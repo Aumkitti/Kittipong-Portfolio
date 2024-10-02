@@ -20,6 +20,9 @@ const ContactBox = () => {
             <p>
               <i className="uil uil-phone"></i> Tel: +66 98 865 0599
             </p>
+            <p>
+              <i className="uil uil-phone"></i> Tel: +66 96 340 9260
+            </p>
           </div>
         </div>
         <div className="col">
