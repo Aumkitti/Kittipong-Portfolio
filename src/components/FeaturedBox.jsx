@@ -1,5 +1,5 @@
 import avatar from "../assets/images/Kitti.jpg";
-import cv from "../assets/download/Resume Kittipong.pdf";
+import cv from "../assets/download/Resume Frontend.pdf";
 
 //หน้า 2
 
