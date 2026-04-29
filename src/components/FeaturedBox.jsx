@@ -1,5 +1,5 @@
 import avatar from "../assets/images/Kitti.jpg";
-import cv from "../assets/download/Resume Frontend.pdf";
+import cv from "../assets/download/Resume kittipong.pdf";
 
 //หน้า 2
 
@@ -17,10 +17,10 @@ const FeaturedBox = () => {
         </div>
         <div className="featured-text-info">
           <p>
-            Software engineering students interested in Frontend Developer are
-            looking for internship opportunities to use my knowledge to help
-            develop projects and want to gain experience. in knowledge
-            development
+            Software Engineering graduate with a strong interest in Frontend
+            Development. Experienced in building web applications and eager to
+            contribute to real-world projects while continuously improving as a
+            developer.
           </p>
         </div>
         <div className="featured-text-btn">

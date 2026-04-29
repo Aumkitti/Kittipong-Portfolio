@@ -1,5 +1,4 @@
-import cv from "../assets/download/Resume Frontend.pdf";
-
+import cv from "../assets/download/Resume kittipong.pdf";
 const AboutBox = () => {
   return (
     <section className="section" id="about">
@@ -39,6 +38,9 @@ const AboutBox = () => {
               <span>Tailwind</span>
               <span>JavaScript</span>
               <span>React</span>
+              <span>Nuxt</span>
+              <span>Vue</span>
+              <span>Bulma</span>
             </div>
           </div>
           <div className="skills-box">
@@ -67,6 +69,7 @@ const AboutBox = () => {
             </div>
             <div className="skills-list">
               <span>Robot</span>
+              <span>Selenium</span>
             </div>
           </div>
         </div>

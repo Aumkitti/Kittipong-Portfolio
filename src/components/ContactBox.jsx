@@ -1,5 +1,3 @@
-import React from "react";
-
 const ContactBox = () => {
   return (
     <section className="section" id="contact">
@@ -15,7 +13,7 @@ const ContactBox = () => {
             </h2>
             <p>
               <i className="uil uil-envelope"></i> Email:
-              644259049@webmail.npru.ac.th
+              kittipong.ktpd@gmail.com
             </p>
             <p>
               <i className="uil uil-phone"></i> Tel: +66 98 865 0599
@@ -26,19 +24,52 @@ const ContactBox = () => {
           </div>
         </div>
         <div className="col">
-          <div className="form-control">
-            <div className="form-inputs">
-              <input type="text" className="input-field" placeholder="Name" />
-              <input type="text" className="input-field" placeholder="Email" />
-            </div>
-            <div className="text-area">
-              <textarea placeholder="Message"></textarea>
-            </div>
-            <div className="form-button">
-              <button className="btn">
-                Send <i className="uil uil-message"></i>
-              </button>
-            </div>
+          <div className="contact-info">
+            <h2>Social</h2>
+
+            <p>
+              <i className="uil uil-github"></i>
+              <a
+                href="https://github.com/Aumkitti"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub
+              </a>
+            </p>
+
+            <p>
+              <i className="uil uil-linkedin"></i>
+              <a
+                href="https://www.linkedin.com/in/kittipong-dachjit-56b084407/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LinkedIn
+              </a>
+            </p>
+
+            <p>
+              <i className="uil uil-instagram"></i>
+              <a
+                href="https://www.instagram.com/aum.ktpd/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Instagram
+              </a>
+            </p>
+
+            <p>
+              <i className="uil uil-facebook"></i>
+              <a
+                href="https://www.facebook.com/profile.php?id=100015293261179"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Facebook
+              </a>
+            </p>
           </div>
         </div>
       </div>

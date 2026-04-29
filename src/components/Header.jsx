@@ -1,4 +1,4 @@
-import cv from "../assets/download/Resume Frontend.pdf";
+import cv from "../assets/download/Resume kittipong.pdf";
 //ทำหน้านี้ก่อน
 const Header = () => {
   const myMenuFunction = () => {

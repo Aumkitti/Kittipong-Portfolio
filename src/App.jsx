@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import Header from "./components/Header";
 import FeaturedBox from "./components/FeaturedBox";
 import AboutBox from "./components/AboutBox";

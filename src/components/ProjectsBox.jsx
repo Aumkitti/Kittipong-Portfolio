@@ -14,13 +14,17 @@ const ProjectsBox = () => {
         </div>
         <div className="project-box">
           <i className="uil uil-users-alt"></i>
-          <h3>Clients</h3>
-          <label>Happy Clients</label>
+          <h3>Internship Projects</h3>
+          <label>3+ Finished Projects</label>
         </div>
         <div className="project-box">
           <i className="uil uil-award"></i>
           <h3>Experience</h3>
-          <label>2+ Years in While studying.</label>
+          <label>
+            3+ years of experience during my studies,
+            <br></br>
+            4 months of internship experience.
+          </label>
         </div>
       </div>
     </section>
